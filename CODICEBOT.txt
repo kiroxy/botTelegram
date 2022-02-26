@@ -3,3 +3,5 @@
 https://api.telegram.org/bot5199935935:AAFMcHp5SZNWk49S4fSUH4itKo99t1PIIpA/getMe per avere la risosta dal bot
 ci servirà il getUpdates per i messaggi inviati al bot
 dovrò usare anche la sendMessage che avrà dura parametri: l'id della chat e il testo con l'URL encode
+
+chat id: 876986485
